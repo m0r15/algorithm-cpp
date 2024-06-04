@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
+        "androidx",
         "EXAMPLEPROJECT",
-        "STDAFX"
-    ]
+        "libsdl",
+        "STDAFX",
+        "stephenc"
+    ],
+    "asciidoc.antora.enableAntoraSupport": true
 }
