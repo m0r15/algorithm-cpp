@@ -1,0 +1,1 @@
+message(STATUS "Yandex CodeRun")
