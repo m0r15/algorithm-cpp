@@ -1,0 +1,7 @@
+== Yandex CodeRun
+
+Catalog of algorithmic tasks from Yandex
+
+Include are
+
+- link:[]

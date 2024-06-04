@@ -1,0 +1,17 @@
+== Solve Algorithm on CPP
+:toc:
+:toc-placement!:
+
+toc::[]
+
+# Intro
+
+I want grade up my algorithm knowledge. For that I create this repository
+
+# Places for resolve problems
+
+- link:https://github.com/m0r15/algorithm-cpp/CodeRun[Yandex CodeRun]
+
+# Links
+
+TODO:
