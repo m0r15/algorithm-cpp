@@ -11,6 +11,7 @@ I want grade up my algorithm knowledge. For that I create this repository
 # Places for resolve problems
 
 - link:CodeRun[Yandex CodeRun]
+- link:LeetCode[LeetCode]
 
 # Links
 
