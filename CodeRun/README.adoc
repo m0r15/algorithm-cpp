@@ -1,7 +1,7 @@
-== Yandex CodeRun
+= Yandex CodeRun
 
 Catalog of algorithmic tasks from Yandex
 
 Include are
 
-- link:[]
+- link:shorter_path_length_12[12. Shorter path length]
