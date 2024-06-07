@@ -4,4 +4,16 @@ Catalog of algorithmic tasks from Yandex
 
 Include are
 
-- link:shorter_path_length_12[12. Shorter path length]
+.Table Tasks
+|===
+|URL |Path |Date |Difficulty |Attempts |Checked tags |Checked Solution |Comments
+
+|https://coderun.yandex.ru/problem/shortest-path-length?currentPage=1&difficulty=EASY&groups=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B&pageSize=10&search=12&rowNumber=1[12. Длина кратчайшего пути]
+|link:shorter_path_length_12[12. Shorter path length]
+|06/06/2025
+|Easy
+|0
+|No
+|No
+|Нужно повторить работу с графами
+|===
