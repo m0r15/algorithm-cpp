@@ -16,4 +16,13 @@ Include are
 |No
 |No
 |Нужно повторить работу с графами
+
+|https://coderun.yandex.ru/problem/search-in-depth?currentPage=1&difficulty=EASY&groups=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B&pageSize=10&rowNumber=1[7. Поиск в глубину]
+|link:search_in_depth_7[7. Search in depth]
+|07/06/2025
+|Easy
+|0
+|No
+|No
+|Повторить работу с графами
 |===
