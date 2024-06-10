@@ -10,7 +10,7 @@ Include are
 
 |https://coderun.yandex.ru/problem/shortest-path-length?currentPage=1&difficulty=EASY&groups=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B&pageSize=10&search=12&rowNumber=1[12. Длина кратчайшего пути]
 |link:shorter_path_length_12[12. Shorter path length]
-|06/06/2025
+|2024/06/06
 |Easy
 |0
 |No
@@ -19,10 +19,19 @@ Include are
 
 |https://coderun.yandex.ru/problem/search-in-depth?currentPage=1&difficulty=EASY&groups=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B&pageSize=10&rowNumber=1[7. Поиск в глубину]
 |link:search_in_depth_7[7. Search in depth]
-|07/06/2025
+|2024/06/07
 |Easy
 |0
 |No
 |No
 |Повторить работу с графами
+
+|https://coderun.yandex.ru/problem/word-appearance-number?currentPage=2&difficulty=EASY&groups=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B&pageSize=10&rowNumber=15[51. Номер появления слова]
+|link:word_s_number_51[51. Word's number of appear]
+|2024/06/10
+|Easy
+|0
+|No
+|No
+|Пройти повторно
 |===

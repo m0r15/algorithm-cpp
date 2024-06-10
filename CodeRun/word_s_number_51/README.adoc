@@ -1,0 +1,3 @@
+= Example Project
+
+This template makes for project

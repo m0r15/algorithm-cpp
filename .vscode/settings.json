@@ -6,5 +6,9 @@
         "STDAFX",
         "stephenc"
     ],
-    "asciidoc.antora.enableAntoraSupport": true
+    "asciidoc.antora.enableAntoraSupport": true,
+    "files.associations": {
+        "istream": "cpp",
+        "sstream": "cpp"
+    }
 }
